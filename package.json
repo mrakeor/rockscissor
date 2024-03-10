@@ -1,0 +1,30 @@
+{
+  "name": "rockscissorkuy",
+  "version": "1.0.0",
+  "description": "let's versus with bot!",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mrakeor/rockscissor.git"
+  },
+  "keywords": [
+    "rock",
+    "scissor",
+    "paper",
+    "play",
+    "game",
+    "fun"
+  ],
+  "author": "mrakeor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mrakeor/rockscissor/issues"
+  },
+  "homepage": "https://github.com/mrakeor/rockscissor#readme",
+  "dependencies": {
+    "kalkulatorz": "^0.0.4"
+  }
+}
