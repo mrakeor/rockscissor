@@ -1,0 +1,28 @@
+{
+  "name": "apalah1",
+  "version": "0.0.1",
+  "description": "apalah apalah apalah",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrakeor/apalah.git"
+  },
+  "keywords": [
+    "hello",
+    "helo",
+    "you",
+    "first"
+  ],
+  "author": "mrakeor",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mrakeor/apalah/issues"
+  },
+  "homepage": "https://github.com/mrakeor/apalah#readme",
+  "dependencies": {
+    "kalkulatorz": "^0.0.4"
+  }
+}

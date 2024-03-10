@@ -25,6 +25,7 @@
   },
   "homepage": "https://github.com/mrakeor/rockscissor#readme",
   "dependencies": {
+    "apalah1": "^0.0.1",
     "kalkulatorz": "^0.0.4"
   }
 }
